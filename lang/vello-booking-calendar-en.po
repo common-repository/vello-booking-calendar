@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vello Booking Calendar\n"
+"POT-Creation-Date: 2019-02-22 08:36+0200\n"
+"PO-Revision-Date: 2019-02-22 09:59+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: vello-booking-calendar.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: vello-booking-calendar.php:48
+msgid "Booking Calendar"
+msgstr "Booking Calendar"
+
+#. Plugin Name of the plugin/theme
+#: vello-booking-calendar.php:64
+msgid "Vello Booking Calendar"
+msgstr "Vello Booking Calendar"
+
+#: vello-booking-calendar.php:71
+msgid "Vello Company ID"
+msgstr "Your Vello ID"
+
+#: vello-booking-calendar.php:80
+msgid "Usage"
+msgstr "Usage"
+
+#: vello-booking-calendar.php:81
+msgid "Embed booking calendar using shortcode"
+msgstr "Embed booking calendar using shortcode"
+
+#: vello-booking-calendar.php:81
+msgid "on any page or post"
+msgstr "on any page or post"
+
+#. Description of the plugin/theme
+msgid "Plugin to Show Vello Booking Calendar with Shortcode"
+msgstr "Plugin to Show Vello Booking Calendar with Shortcode"
+
+#. Author of the plugin/theme
+msgid "Vello"
+msgstr "Vello"
+
+#. Author URI of the plugin/theme
+msgid "https://vello.fi"
+msgstr "https://vello.fi"
